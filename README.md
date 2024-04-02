@@ -1,4 +1,4 @@
-## Bem-vindo(a)! Eu sou Eik Magalhães 😁
+## Bem-vindo(a)! Eu sou Erik Magalhães 😁
 
  <div>
    <a href="https://github.com/Erik-M-D">
